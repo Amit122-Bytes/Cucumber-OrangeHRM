@@ -1,0 +1,346 @@
+2020-09-12 19:36:19,287 [main] INFO OrangeHRM - *****************Launching URL****************
+2020-09-12 19:36:19,330 [main] INFO OrangeHRM - *****************Opening URL****************
+2020-09-12 19:36:23,792 [main] INFO OrangeHRM - *****************User Informartion****************
+2020-09-12 19:36:24,109 [main] INFO OrangeHRM - *****************Click on Login****************
+2020-09-12 19:36:41,552 [main] INFO OrangeHRM - *****************Login Failed ****************
+2020-09-12 19:36:44,565 [main] INFO OrangeHRM - *****************Click on Logout ****************
+2020-09-12 19:37:07,530 [main] INFO OrangeHRM - *****************Launching URL****************
+2020-09-12 19:37:07,532 [main] INFO OrangeHRM - *****************Opening URL****************
+2020-09-12 19:37:09,061 [main] INFO OrangeHRM - *****************User Informartion****************
+2020-09-12 19:37:09,309 [main] INFO OrangeHRM - *****************Click on Login****************
+2020-09-12 19:37:10,014 [main] INFO OrangeHRM - *****************Login Passed ****************
+2020-09-12 19:37:13,167 [main] INFO OrangeHRM - *****************Launching URL****************
+2020-09-12 19:37:13,169 [main] INFO OrangeHRM - *****************Opening URL****************
+2020-09-12 19:37:16,383 [main] INFO OrangeHRM - *****************User Informartion****************
+2020-09-12 19:37:16,641 [main] INFO OrangeHRM - *****************Click on Login****************
+2020-09-12 19:37:18,123 [main] INFO OrangeHRM - *****************Login Passed ****************
+2020-09-12 19:37:21,317 [main] INFO OrangeHRM - *****************Launching URL****************
+2020-09-12 19:37:21,320 [main] INFO OrangeHRM - *****************Opening URL****************
+2020-09-12 19:37:28,500 [main] INFO OrangeHRM - *****************User Informartion****************
+2020-09-12 19:37:28,765 [main] INFO OrangeHRM - *****************Click on Login****************
+2020-09-12 19:37:30,670 [main] INFO OrangeHRM - *****************Login Failed ****************
+2020-09-12 19:37:33,688 [main] INFO OrangeHRM - *****************Click on Logout ****************
+2020-09-12 19:37:40,534 [main] INFO OrangeHRM - *****************Launching URL****************
+2020-09-12 19:37:40,536 [main] INFO OrangeHRM - *****************Opening URL****************
+2020-09-12 19:37:42,194 [main] INFO OrangeHRM - *****************User Informartion****************
+2020-09-12 19:37:42,476 [main] INFO OrangeHRM - *****************Click on Login****************
+2020-09-12 19:37:49,656 [main] INFO OrangeHRM - *****************Click on Myinfo ****************
+2020-09-12 19:38:09,757 [main] INFO OrangeHRM - *****************Click on Edit button ****************
+2020-09-12 19:38:09,835 [main] INFO OrangeHRM - *****************Change first name ****************
+2020-09-12 19:38:09,966 [main] INFO OrangeHRM - *****************Change last name ****************
+2020-09-12 19:38:10,086 [main] INFO OrangeHRM - *****************ID change ****************
+2020-09-12 19:38:10,202 [main] INFO OrangeHRM - *****************Change date ****************
+2020-09-12 19:38:10,409 [main] INFO OrangeHRM - *****************Choose Gender ****************
+2020-09-12 19:38:10,476 [main] INFO OrangeHRM - *****************Change material status ****************
+2020-09-12 19:38:10,553 [main] INFO OrangeHRM - *****************Change nationality ****************
+2020-09-12 19:38:10,615 [main] INFO OrangeHRM - *****************Click on save ****************
+2020-09-12 19:38:21,267 [main] INFO OrangeHRM - *****************Click on Logout ****************
+2020-09-12 19:38:25,026 [main] INFO OrangeHRM - *****************Closing Browser ****************
+2020-09-12 19:38:28,957 [main] INFO OrangeHRM - *****************Launching URL****************
+2020-09-12 19:38:28,959 [main] INFO OrangeHRM - *****************Opening URL****************
+2020-09-12 19:38:38,151 [main] INFO OrangeHRM - *****************User Informartion****************
+2020-09-12 19:38:38,411 [main] INFO OrangeHRM - *****************Click on Login****************
+2020-09-12 19:38:41,498 [main] INFO OrangeHRM - *****************Go to directory ****************
+2020-09-12 19:38:45,157 [main] INFO OrangeHRM - *****************Enter Name for search****************
+2020-09-12 19:38:45,328 [main] INFO OrangeHRM - *****************Searching ****************
+2020-09-12 19:39:02,670 [main] INFO OrangeHRM - *****************Name found ****************
+2020-09-12 19:39:02,718 [main] INFO OrangeHRM - *****************Closing Browser ****************
+2020-09-12 19:43:40,720 [main] INFO OrangeHRM - *****************Launching URL****************
+2020-09-12 19:43:40,752 [main] INFO OrangeHRM - *****************Opening URL****************
+2020-09-12 19:43:43,756 [main] INFO OrangeHRM - *****************User Informartion****************
+2020-09-12 19:43:44,020 [main] INFO OrangeHRM - *****************Click on Login****************
+2020-09-12 19:43:48,876 [main] INFO OrangeHRM - *****************Login Failed ****************
+2020-09-12 19:43:52,152 [main] INFO OrangeHRM - *****************Launching URL****************
+2020-09-12 19:43:52,154 [main] INFO OrangeHRM - *****************Opening URL****************
+2020-09-12 19:43:58,389 [main] INFO OrangeHRM - *****************User Informartion****************
+2020-09-12 19:43:58,649 [main] INFO OrangeHRM - *****************Click on Login****************
+2020-09-12 19:44:03,180 [main] INFO OrangeHRM - *****************Login Passed ****************
+2020-09-12 19:44:06,285 [main] INFO OrangeHRM - *****************Launching URL****************
+2020-09-12 19:44:06,287 [main] INFO OrangeHRM - *****************Opening URL****************
+2020-09-12 19:44:09,359 [main] INFO OrangeHRM - *****************User Informartion****************
+2020-09-12 19:44:09,625 [main] INFO OrangeHRM - *****************Click on Login****************
+2020-09-12 19:44:11,180 [main] INFO OrangeHRM - *****************Login Passed ****************
+2020-09-12 19:44:14,414 [main] INFO OrangeHRM - *****************Launching URL****************
+2020-09-12 19:44:14,417 [main] INFO OrangeHRM - *****************Opening URL****************
+2020-09-12 19:44:16,425 [main] INFO OrangeHRM - *****************User Informartion****************
+2020-09-12 19:44:16,703 [main] INFO OrangeHRM - *****************Click on Login****************
+2020-09-12 19:44:18,786 [main] INFO OrangeHRM - *****************Login Failed ****************
+2020-09-12 19:44:22,118 [main] INFO OrangeHRM - *****************Launching URL****************
+2020-09-12 19:44:22,120 [main] INFO OrangeHRM - *****************Opening URL****************
+2020-09-12 19:44:26,090 [main] INFO OrangeHRM - *****************User Informartion****************
+2020-09-12 19:44:26,546 [main] INFO OrangeHRM - *****************Click on Login****************
+2020-09-12 19:44:33,119 [main] INFO OrangeHRM - *****************Click on Myinfo ****************
+2020-09-12 19:44:36,482 [main] INFO OrangeHRM - *****************Click on Edit button ****************
+2020-09-12 19:44:36,559 [main] INFO OrangeHRM - *****************Change first name ****************
+2020-09-12 19:44:36,691 [main] INFO OrangeHRM - *****************Change last name ****************
+2020-09-12 19:44:36,812 [main] INFO OrangeHRM - *****************ID change ****************
+2020-09-12 19:44:36,931 [main] INFO OrangeHRM - *****************Change date ****************
+2020-09-12 19:44:37,134 [main] INFO OrangeHRM - *****************Choose Gender ****************
+2020-09-12 19:44:37,203 [main] INFO OrangeHRM - *****************Change material status ****************
+2020-09-12 19:44:37,276 [main] INFO OrangeHRM - *****************Change nationality ****************
+2020-09-12 19:44:37,337 [main] INFO OrangeHRM - *****************Click on save ****************
+2020-09-12 19:44:46,886 [main] INFO OrangeHRM - *****************Click on Logout ****************
+2020-09-12 19:44:50,546 [main] INFO OrangeHRM - *****************Closing Browser ****************
+2020-09-12 19:44:54,366 [main] INFO OrangeHRM - *****************Launching URL****************
+2020-09-12 19:44:54,368 [main] INFO OrangeHRM - *****************Opening URL****************
+2020-09-12 19:44:56,445 [main] INFO OrangeHRM - *****************User Informartion****************
+2020-09-12 19:44:56,713 [main] INFO OrangeHRM - *****************Click on Login****************
+2020-09-12 19:44:58,458 [main] INFO OrangeHRM - *****************Go to directory ****************
+2020-09-12 19:45:01,504 [main] INFO OrangeHRM - *****************Enter Name for search****************
+2020-09-12 19:45:01,654 [main] INFO OrangeHRM - *****************Searching ****************
+2020-09-12 19:45:04,452 [main] INFO OrangeHRM - *****************Name found ****************
+2020-09-12 19:45:04,495 [main] INFO OrangeHRM - *****************Closing Browser ****************
+2020-09-12 19:46:29,189 [main] INFO OrangeHRM - *****************Launching URL****************
+2020-09-12 19:46:29,221 [main] INFO OrangeHRM - *****************Opening URL****************
+2020-09-12 19:46:38,231 [main] INFO OrangeHRM - *****************User Informartion****************
+2020-09-12 19:46:38,497 [main] INFO OrangeHRM - *****************Click on Login****************
+2020-09-12 19:46:42,965 [main] INFO OrangeHRM - *****************Login Failed ****************
+2020-09-12 19:46:45,975 [main] INFO OrangeHRM - *****************Click on Logout ****************
+2020-09-12 19:46:53,298 [main] INFO OrangeHRM - *****************Launching URL****************
+2020-09-12 19:46:53,300 [main] INFO OrangeHRM - *****************Opening URL****************
+2020-09-12 19:46:56,156 [main] INFO OrangeHRM - *****************User Informartion****************
+2020-09-12 19:46:56,440 [main] INFO OrangeHRM - *****************Click on Login****************
+2020-09-12 19:46:57,287 [main] INFO OrangeHRM - *****************Login Passed ****************
+2020-09-12 19:47:00,518 [main] INFO OrangeHRM - *****************Launching URL****************
+2020-09-12 19:47:00,520 [main] INFO OrangeHRM - *****************Opening URL****************
+2020-09-12 19:47:04,020 [main] INFO OrangeHRM - *****************User Informartion****************
+2020-09-12 19:47:04,262 [main] INFO OrangeHRM - *****************Click on Login****************
+2020-09-12 19:47:04,976 [main] INFO OrangeHRM - *****************Login Passed ****************
+2020-09-12 19:47:08,145 [main] INFO OrangeHRM - *****************Launching URL****************
+2020-09-12 19:47:08,147 [main] INFO OrangeHRM - *****************Opening URL****************
+2020-09-12 19:47:10,682 [main] INFO OrangeHRM - *****************User Informartion****************
+2020-09-12 19:47:10,955 [main] INFO OrangeHRM - *****************Click on Login****************
+2020-09-12 19:47:13,001 [main] INFO OrangeHRM - *****************Login Failed ****************
+2020-09-12 19:47:16,010 [main] INFO OrangeHRM - *****************Click on Logout ****************
+2020-09-12 19:47:23,871 [main] INFO OrangeHRM - *****************Launching URL****************
+2020-09-12 19:47:23,872 [main] INFO OrangeHRM - *****************Opening URL****************
+2020-09-12 19:47:26,289 [main] INFO OrangeHRM - *****************User Informartion****************
+2020-09-12 19:47:26,549 [main] INFO OrangeHRM - *****************Click on Login****************
+2020-09-12 19:47:32,271 [main] INFO OrangeHRM - *****************Click on Myinfo ****************
+2020-09-12 19:47:35,591 [main] INFO OrangeHRM - *****************Click on Edit button ****************
+2020-09-12 19:47:35,680 [main] INFO OrangeHRM - *****************Change first name ****************
+2020-09-12 19:47:35,813 [main] INFO OrangeHRM - *****************Change last name ****************
+2020-09-12 19:47:35,933 [main] INFO OrangeHRM - *****************ID change ****************
+2020-09-12 19:47:36,047 [main] INFO OrangeHRM - *****************Change date ****************
+2020-09-12 19:47:36,273 [main] INFO OrangeHRM - *****************Choose Gender ****************
+2020-09-12 19:47:36,350 [main] INFO OrangeHRM - *****************Change material status ****************
+2020-09-12 19:47:36,422 [main] INFO OrangeHRM - *****************Change nationality ****************
+2020-09-12 19:47:36,478 [main] INFO OrangeHRM - *****************Click on save ****************
+2020-09-12 19:47:46,394 [main] INFO OrangeHRM - *****************Click on Logout ****************
+2020-09-12 19:47:50,292 [main] INFO OrangeHRM - *****************Closing Browser ****************
+2020-09-12 19:47:54,199 [main] INFO OrangeHRM - *****************Launching URL****************
+2020-09-12 19:47:54,200 [main] INFO OrangeHRM - *****************Opening URL****************
+2020-09-12 19:47:55,378 [main] INFO OrangeHRM - *****************User Informartion****************
+2020-09-12 19:47:55,653 [main] INFO OrangeHRM - *****************Click on Login****************
+2020-09-12 19:47:57,371 [main] INFO OrangeHRM - *****************Go to directory ****************
+2020-09-12 19:48:03,055 [main] INFO OrangeHRM - *****************Enter Name for search****************
+2020-09-12 19:48:03,210 [main] INFO OrangeHRM - *****************Searching ****************
+2020-09-12 19:48:05,988 [main] INFO OrangeHRM - *****************Name found ****************
+2020-09-12 19:48:06,032 [main] INFO OrangeHRM - *****************Closing Browser ****************
+2020-09-12 20:22:25,306 [main] INFO OrangeHRM - *****************Launching URL****************
+2020-09-12 20:22:25,492 [main] INFO OrangeHRM - *****************Opening URL****************
+2020-09-12 20:22:28,762 [main] INFO OrangeHRM - *****************User Informartion****************
+2020-09-12 20:22:30,485 [main] INFO OrangeHRM - *****************Launching URL****************
+2020-09-12 20:22:30,490 [main] INFO OrangeHRM - *****************Opening URL****************
+2020-09-12 20:22:30,689 [main] INFO OrangeHRM - *****************User Informartion****************
+2020-09-12 20:22:32,384 [main] INFO OrangeHRM - *****************Launching URL****************
+2020-09-12 20:22:32,390 [main] INFO OrangeHRM - *****************Opening URL****************
+2020-09-12 20:22:32,450 [main] INFO OrangeHRM - *****************User Informartion****************
+2020-09-12 20:22:34,097 [main] INFO OrangeHRM - *****************Launching URL****************
+2020-09-12 20:22:34,103 [main] INFO OrangeHRM - *****************Opening URL****************
+2020-09-12 20:22:34,176 [main] INFO OrangeHRM - *****************User Informartion****************
+2020-09-12 20:22:35,920 [main] INFO OrangeHRM - *****************Launching URL****************
+2020-09-12 20:22:35,924 [main] INFO OrangeHRM - *****************Opening URL****************
+2020-09-12 20:22:36,103 [main] INFO OrangeHRM - *****************User Informartion****************
+2020-09-12 20:22:37,856 [main] INFO OrangeHRM - *****************Launching URL****************
+2020-09-12 20:22:37,863 [main] INFO OrangeHRM - *****************Opening URL****************
+2020-09-12 20:22:37,918 [main] INFO OrangeHRM - *****************User Informartion****************
+2020-09-12 20:23:56,519 [main] INFO OrangeHRM - *****************Launching URL****************
+2020-09-12 20:23:56,690 [main] INFO OrangeHRM - *****************Opening URL****************
+2020-09-12 20:24:01,115 [main] INFO OrangeHRM - *****************User Informartion****************
+2020-09-12 20:24:01,315 [main] INFO OrangeHRM - *****************Click on Login****************
+2020-09-12 20:24:03,409 [main] INFO OrangeHRM - *****************Login Failed ****************
+2020-09-12 20:24:06,434 [main] INFO OrangeHRM - *****************Click on Logout ****************
+2020-09-12 20:24:17,174 [main] INFO OrangeHRM - *****************Launching URL****************
+2020-09-12 20:24:17,305 [main] INFO OrangeHRM - *****************Opening URL****************
+2020-09-12 20:24:21,641 [main] INFO OrangeHRM - *****************User Informartion****************
+2020-09-12 20:24:21,781 [main] INFO OrangeHRM - *****************Click on Login****************
+2020-09-12 20:24:33,558 [main] INFO OrangeHRM - *****************Login Passed ****************
+2020-09-12 20:24:38,356 [main] INFO OrangeHRM - *****************Launching URL****************
+2020-09-12 20:24:38,362 [main] INFO OrangeHRM - *****************Opening URL****************
+2020-09-12 20:24:42,095 [main] INFO OrangeHRM - *****************User Informartion****************
+2020-09-12 20:24:42,199 [main] INFO OrangeHRM - *****************Click on Login****************
+2020-09-12 20:24:45,776 [main] INFO OrangeHRM - *****************Login Passed ****************
+2020-09-12 20:24:51,983 [main] INFO OrangeHRM - *****************Launching URL****************
+2020-09-12 20:24:51,988 [main] INFO OrangeHRM - *****************Opening URL****************
+2020-09-12 20:24:54,593 [main] INFO OrangeHRM - *****************User Informartion****************
+2020-09-12 20:24:54,725 [main] INFO OrangeHRM - *****************Click on Login****************
+2020-09-12 20:24:56,227 [main] INFO OrangeHRM - *****************Login Failed ****************
+2020-09-12 20:24:59,235 [main] INFO OrangeHRM - *****************Click on Logout ****************
+2020-09-12 20:25:08,968 [main] INFO OrangeHRM - *****************Launching URL****************
+2020-09-12 20:25:08,973 [main] INFO OrangeHRM - *****************Opening URL****************
+2020-09-12 20:25:13,794 [main] INFO OrangeHRM - *****************User Informartion****************
+2020-09-12 20:25:13,902 [main] INFO OrangeHRM - *****************Click on Login****************
+2020-09-12 20:25:18,080 [main] INFO OrangeHRM - *****************Click on Myinfo ****************
+2020-09-12 20:25:21,407 [main] INFO OrangeHRM - *****************Click on Edit button ****************
+2020-09-12 20:25:21,660 [main] INFO OrangeHRM - *****************Change first name ****************
+2020-09-12 20:25:21,710 [main] INFO OrangeHRM - *****************Change last name ****************
+2020-09-12 20:25:21,750 [main] INFO OrangeHRM - *****************ID change ****************
+2020-09-12 20:25:21,793 [main] INFO OrangeHRM - *****************Change date ****************
+2020-09-12 20:25:21,941 [main] INFO OrangeHRM - *****************Choose Gender ****************
+2020-09-12 20:25:22,174 [main] INFO OrangeHRM - *****************Change material status ****************
+2020-09-12 20:25:22,219 [main] INFO OrangeHRM - *****************Change nationality ****************
+2020-09-12 20:25:22,259 [main] INFO OrangeHRM - *****************Click on save ****************
+2020-09-12 20:25:32,695 [main] INFO OrangeHRM - *****************Click on Logout ****************
+2020-09-12 20:25:37,602 [main] INFO OrangeHRM - *****************Closing Browser ****************
+2020-09-12 20:25:44,786 [main] INFO OrangeHRM - *****************Launching URL****************
+2020-09-12 20:25:44,809 [main] INFO OrangeHRM - *****************Opening URL****************
+2020-09-12 20:25:47,735 [main] INFO OrangeHRM - *****************User Informartion****************
+2020-09-12 20:25:47,860 [main] INFO OrangeHRM - *****************Click on Login****************
+2020-09-12 20:25:50,775 [main] INFO OrangeHRM - *****************Go to directory ****************
+2020-09-12 20:25:53,880 [main] INFO OrangeHRM - *****************Enter Name for search****************
+2020-09-12 20:25:53,962 [main] INFO OrangeHRM - *****************Searching ****************
+2020-09-12 20:25:56,996 [main] INFO OrangeHRM - *****************Name found ****************
+2020-09-12 20:25:57,056 [main] INFO OrangeHRM - *****************Closing Browser ****************
+2020-09-12 22:20:11,573 [main] INFO OrangeHRM - *****************Launching URL****************
+2020-09-12 22:20:12,869 [main] INFO OrangeHRM - *****************Opening URL****************
+2020-09-12 22:20:14,249 [main] INFO OrangeHRM - *****************User Informartion****************
+2020-09-12 22:20:14,468 [main] INFO OrangeHRM - *****************Click on Login****************
+2020-09-12 22:20:15,936 [main] INFO OrangeHRM - *****************Login Failed ****************
+2020-09-12 22:20:18,959 [main] INFO OrangeHRM - *****************Click on Logout ****************
+2020-09-12 22:23:07,915 [main] INFO OrangeHRM - *****************Launching URL****************
+2020-09-12 22:23:08,086 [main] INFO OrangeHRM - *****************Opening URL****************
+2020-09-12 22:23:11,130 [main] INFO OrangeHRM - *****************User Informartion****************
+2020-09-12 22:23:11,253 [main] INFO OrangeHRM - *****************Click on Login****************
+2020-09-12 22:23:12,993 [main] INFO OrangeHRM - *****************Login Failed ****************
+2020-09-12 22:23:16,007 [main] INFO OrangeHRM - *****************Click on Logout ****************
+2020-09-12 22:23:24,683 [main] INFO OrangeHRM - *****************Launching URL****************
+2020-09-12 22:23:24,689 [main] INFO OrangeHRM - *****************Opening URL****************
+2020-09-12 22:23:27,764 [main] INFO OrangeHRM - *****************User Informartion****************
+2020-09-12 22:23:27,877 [main] INFO OrangeHRM - *****************Click on Login****************
+2020-09-12 22:23:32,039 [main] INFO OrangeHRM - *****************Click on Myinfo ****************
+2020-09-12 22:23:35,187 [main] INFO OrangeHRM - *****************Click on Edit button ****************
+2020-09-12 22:23:35,427 [main] INFO OrangeHRM - *****************Change first name ****************
+2020-09-12 22:23:35,485 [main] INFO OrangeHRM - *****************Change last name ****************
+2020-09-12 22:23:35,527 [main] INFO OrangeHRM - *****************ID change ****************
+2020-09-12 22:23:35,568 [main] INFO OrangeHRM - *****************Change date ****************
+2020-09-12 22:23:35,709 [main] INFO OrangeHRM - *****************Choose Gender ****************
+2020-09-12 22:23:35,936 [main] INFO OrangeHRM - *****************Change material status ****************
+2020-09-12 22:23:36,003 [main] INFO OrangeHRM - *****************Change nationality ****************
+2020-09-12 22:23:36,045 [main] INFO OrangeHRM - *****************Click on save ****************
+2020-09-12 22:23:45,631 [main] INFO OrangeHRM - *****************Click on Logout ****************
+2020-09-12 22:23:49,453 [main] INFO OrangeHRM - *****************Closing Browser ****************
+2020-09-12 22:25:42,779 [main] INFO OrangeHRM - *****************Launching URL****************
+2020-09-12 22:25:42,965 [main] INFO OrangeHRM - *****************Opening URL****************
+2020-09-12 22:25:44,085 [main] INFO OrangeHRM - *****************User Informartion****************
+2020-09-12 22:25:44,388 [main] INFO OrangeHRM - *****************Click on Login****************
+2020-09-12 22:25:45,790 [main] INFO OrangeHRM - *****************Login Failed ****************
+2020-09-12 22:25:48,802 [main] INFO OrangeHRM - *****************Click on Logout ****************
+2020-09-12 22:25:55,759 [main] INFO OrangeHRM - *****************Launching URL****************
+2020-09-12 22:25:55,765 [main] INFO OrangeHRM - *****************Opening URL****************
+2020-09-12 22:25:56,918 [main] INFO OrangeHRM - *****************User Informartion****************
+2020-09-12 22:25:57,386 [main] INFO OrangeHRM - *****************Click on Login****************
+2020-09-12 22:26:03,300 [main] INFO OrangeHRM - *****************Click on Myinfo ****************
+2020-09-12 22:26:06,628 [main] INFO OrangeHRM - *****************Click on Edit button ****************
+2020-09-12 22:26:06,707 [main] INFO OrangeHRM - *****************Change first name ****************
+2020-09-12 22:26:06,842 [main] INFO OrangeHRM - *****************Change last name ****************
+2020-09-12 22:26:06,969 [main] INFO OrangeHRM - *****************ID change ****************
+2020-09-12 22:26:07,089 [main] INFO OrangeHRM - *****************Change date ****************
+2020-09-12 22:26:07,301 [main] INFO OrangeHRM - *****************Choose Gender ****************
+2020-09-12 22:26:07,382 [main] INFO OrangeHRM - *****************Change material status ****************
+2020-09-12 22:26:07,552 [main] INFO OrangeHRM - *****************Change nationality ****************
+2020-09-12 22:26:07,619 [main] INFO OrangeHRM - *****************Click on save ****************
+2020-09-12 22:26:22,664 [main] INFO OrangeHRM - *****************Click on Logout ****************
+2020-09-12 22:26:26,478 [main] INFO OrangeHRM - *****************Closing Browser ****************
+2020-09-12 22:57:50,653 [main] INFO OrangeHRM - *****************Launching URL****************
+2020-09-12 22:57:50,877 [main] INFO OrangeHRM - *****************Opening URL****************
+2020-09-12 22:57:52,966 [main] INFO OrangeHRM - *****************User Informartion****************
+2020-09-12 22:57:53,243 [main] INFO OrangeHRM - *****************Click on Login****************
+2020-09-12 22:57:55,088 [main] INFO OrangeHRM - *****************Login Failed ****************
+2020-09-12 22:57:58,100 [main] INFO OrangeHRM - *****************Click on Logout ****************
+2020-09-12 22:58:01,993 [main] INFO OrangeHRM - *****************Closing Browser ****************
+2020-09-12 22:58:06,119 [main] INFO OrangeHRM - *****************Launching URL****************
+2020-09-12 22:58:06,125 [main] INFO OrangeHRM - *****************Opening URL****************
+2020-09-12 22:58:12,428 [main] INFO OrangeHRM - *****************User Informartion****************
+2020-09-12 22:58:12,685 [main] INFO OrangeHRM - *****************Click on Login****************
+2020-09-12 22:58:18,850 [main] INFO OrangeHRM - *****************Click on Myinfo ****************
+2020-09-12 22:58:23,739 [main] INFO OrangeHRM - *****************Click on Edit button ****************
+2020-09-12 22:58:23,816 [main] INFO OrangeHRM - *****************Change first name ****************
+2020-09-12 22:58:23,953 [main] INFO OrangeHRM - *****************Change last name ****************
+2020-09-12 22:58:24,074 [main] INFO OrangeHRM - *****************ID change ****************
+2020-09-12 22:58:24,191 [main] INFO OrangeHRM - *****************Change date ****************
+2020-09-12 22:58:24,399 [main] INFO OrangeHRM - *****************Choose Gender ****************
+2020-09-12 22:58:24,471 [main] INFO OrangeHRM - *****************Change material status ****************
+2020-09-12 22:58:24,547 [main] INFO OrangeHRM - *****************Change nationality ****************
+2020-09-12 22:58:24,608 [main] INFO OrangeHRM - *****************Click on save ****************
+2020-09-12 22:58:34,354 [main] INFO OrangeHRM - *****************Click on Logout ****************
+2020-09-12 22:58:38,328 [main] INFO OrangeHRM - *****************Closing Browser ****************
+2020-09-13 11:06:36,042 [main] INFO OrangeHRM - *****************Launching URL****************
+2020-09-13 11:06:36,507 [main] INFO OrangeHRM - *****************Opening URL****************
+2020-09-13 11:06:42,207 [main] INFO OrangeHRM - *****************User Informartion****************
+2020-09-13 11:06:42,481 [main] INFO OrangeHRM - *****************Click on Login****************
+2020-09-13 11:06:46,918 [main] INFO OrangeHRM - *****************Login Failed ****************
+2020-09-13 11:06:49,941 [main] INFO OrangeHRM - *****************Click on Logout ****************
+2020-09-13 11:06:53,715 [main] INFO OrangeHRM - *****************Closing Browser ****************
+2020-09-13 11:06:57,744 [main] INFO OrangeHRM - *****************Launching URL****************
+2020-09-13 11:06:57,751 [main] INFO OrangeHRM - *****************Opening URL****************
+2020-09-13 11:07:00,132 [main] INFO OrangeHRM - *****************User Informartion****************
+2020-09-13 11:07:00,416 [main] INFO OrangeHRM - *****************Click on Login****************
+2020-09-13 11:07:06,729 [main] INFO OrangeHRM - *****************Click on Myinfo ****************
+2020-09-13 11:07:12,426 [main] INFO OrangeHRM - *****************Click on Edit button ****************
+2020-09-13 11:07:12,502 [main] INFO OrangeHRM - *****************Change first name ****************
+2020-09-13 11:07:12,634 [main] INFO OrangeHRM - *****************Change last name ****************
+2020-09-13 11:07:12,763 [main] INFO OrangeHRM - *****************ID change ****************
+2020-09-13 11:07:12,884 [main] INFO OrangeHRM - *****************Change date ****************
+2020-09-13 11:07:13,097 [main] INFO OrangeHRM - *****************Choose Gender ****************
+2020-09-13 11:07:13,181 [main] INFO OrangeHRM - *****************Change material status ****************
+2020-09-13 11:07:13,297 [main] INFO OrangeHRM - *****************Change nationality ****************
+2020-09-13 11:07:13,377 [main] INFO OrangeHRM - *****************Click on save ****************
+2020-09-13 11:07:24,050 [main] INFO OrangeHRM - *****************Click on Logout ****************
+2020-09-13 11:07:27,865 [main] INFO OrangeHRM - *****************Closing Browser ****************
+2020-09-13 11:14:29,885 [main] INFO OrangeHRM - *****************Launching URL****************
+2020-09-13 11:14:30,074 [main] INFO OrangeHRM - *****************Opening URL****************
+2020-09-13 11:14:33,992 [main] INFO OrangeHRM - *****************User Informartion****************
+2020-09-13 11:14:34,252 [main] INFO OrangeHRM - *****************Click on Login****************
+2020-09-13 11:14:36,639 [main] INFO OrangeHRM - *****************Login Failed ****************
+2020-09-13 11:14:39,652 [main] INFO OrangeHRM - *****************Click on Logout ****************
+2020-09-13 11:14:43,442 [main] INFO OrangeHRM - *****************Closing Browser ****************
+2020-09-13 11:14:47,582 [main] INFO OrangeHRM - *****************Launching URL****************
+2020-09-13 11:14:47,589 [main] INFO OrangeHRM - *****************Opening URL****************
+2020-09-13 11:14:51,637 [main] INFO OrangeHRM - *****************User Informartion****************
+2020-09-13 11:14:52,005 [main] INFO OrangeHRM - *****************Click on Login****************
+2020-09-13 11:14:59,497 [main] INFO OrangeHRM - *****************Click on Myinfo ****************
+2020-09-13 11:15:07,771 [main] INFO OrangeHRM - *****************Click on Edit button ****************
+2020-09-13 11:15:07,853 [main] INFO OrangeHRM - *****************Change first name ****************
+2020-09-13 11:15:07,983 [main] INFO OrangeHRM - *****************Change last name ****************
+2020-09-13 11:15:08,118 [main] INFO OrangeHRM - *****************ID change ****************
+2020-09-13 11:15:08,233 [main] INFO OrangeHRM - *****************Change date ****************
+2020-09-13 11:15:08,438 [main] INFO OrangeHRM - *****************Choose Gender ****************
+2020-09-13 11:15:08,513 [main] INFO OrangeHRM - *****************Change material status ****************
+2020-09-13 11:15:08,592 [main] INFO OrangeHRM - *****************Change nationality ****************
+2020-09-13 11:15:08,656 [main] INFO OrangeHRM - *****************Click on save ****************
+2020-09-13 11:15:18,056 [main] INFO OrangeHRM - *****************Click on Logout ****************
+2020-09-13 11:15:21,783 [main] INFO OrangeHRM - *****************Closing Browser ****************
+2020-09-13 11:36:48,237 [main] INFO OrangeHRM - *****************Launching URL****************
+2020-09-13 11:36:48,405 [main] INFO OrangeHRM - *****************Opening URL****************
+2020-09-13 11:36:53,856 [main] INFO OrangeHRM - *****************User Informartion****************
+2020-09-13 11:36:54,251 [main] INFO OrangeHRM - *****************Click on Login****************
+2020-09-13 11:36:59,290 [main] INFO OrangeHRM - *****************Login Failed ****************
+2020-09-13 11:37:02,318 [main] INFO OrangeHRM - *****************Click on Logout ****************
+2020-09-13 11:37:09,769 [main] INFO OrangeHRM - *****************Closing Browser ****************
+2020-09-13 11:37:13,523 [main] INFO OrangeHRM - *****************Launching URL****************
+2020-09-13 11:37:13,530 [main] INFO OrangeHRM - *****************Opening URL****************
+2020-09-13 11:37:16,608 [main] INFO OrangeHRM - *****************User Informartion****************
+2020-09-13 11:37:16,857 [main] INFO OrangeHRM - *****************Click on Login****************
+2020-09-13 11:37:22,436 [main] INFO OrangeHRM - *****************Click on Myinfo ****************
+2020-09-13 11:37:25,759 [main] INFO OrangeHRM - *****************Click on Edit button ****************
+2020-09-13 11:37:25,834 [main] INFO OrangeHRM - *****************Change first name ****************
+2020-09-13 11:37:25,966 [main] INFO OrangeHRM - *****************Change last name ****************
+2020-09-13 11:37:26,083 [main] INFO OrangeHRM - *****************ID change ****************
+2020-09-13 11:37:26,193 [main] INFO OrangeHRM - *****************Change date ****************
+2020-09-13 11:37:26,399 [main] INFO OrangeHRM - *****************Choose Gender ****************
+2020-09-13 11:37:26,484 [main] INFO OrangeHRM - *****************Change material status ****************
+2020-09-13 11:37:26,566 [main] INFO OrangeHRM - *****************Change nationality ****************
+2020-09-13 11:37:26,625 [main] INFO OrangeHRM - *****************Click on save ****************
+2020-09-13 11:37:36,524 [main] INFO OrangeHRM - *****************Click on Logout ****************
+2020-09-13 11:37:50,152 [main] INFO OrangeHRM - *****************Closing Browser ****************
