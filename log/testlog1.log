@@ -344,3 +344,95 @@
 2020-09-13 11:37:26,625 [main] INFO OrangeHRM - *****************Click on save ****************
 2020-09-13 11:37:36,524 [main] INFO OrangeHRM - *****************Click on Logout ****************
 2020-09-13 11:37:50,152 [main] INFO OrangeHRM - *****************Closing Browser ****************
+2021-07-12 00:00:02,336 [main] INFO OrangeHRM - *****************Launching URL****************
+2021-07-12 00:00:02,657 [main] INFO OrangeHRM - *****************Opening URL****************
+2021-07-12 00:00:04,777 [main] INFO OrangeHRM - *****************User Informartion****************
+2021-07-12 00:00:05,042 [main] INFO OrangeHRM - *****************Click on Login****************
+2021-07-12 00:00:07,262 [main] INFO OrangeHRM - *****************Login Failed ****************
+2021-07-12 00:00:10,279 [main] INFO OrangeHRM - *****************Click on Logout ****************
+2021-07-12 00:00:14,216 [main] INFO OrangeHRM - *****************Closing Browser ****************
+2021-07-12 00:00:16,592 [main] INFO OrangeHRM - *****************Launching URL****************
+2021-07-12 00:00:16,599 [main] INFO OrangeHRM - *****************Opening URL****************
+2021-07-12 00:00:19,942 [main] INFO OrangeHRM - *****************User Informartion****************
+2021-07-12 00:00:20,203 [main] INFO OrangeHRM - *****************Click on Login****************
+2021-07-12 00:00:26,229 [main] INFO OrangeHRM - *****************Click on Myinfo ****************
+2021-07-12 00:00:30,094 [main] INFO OrangeHRM - *****************Click on Edit button ****************
+2021-07-12 00:00:30,168 [main] INFO OrangeHRM - *****************Change first name ****************
+2021-07-12 00:00:30,334 [main] INFO OrangeHRM - *****************Change last name ****************
+2021-07-12 00:00:30,474 [main] INFO OrangeHRM - *****************ID change ****************
+2021-07-12 00:00:30,588 [main] INFO OrangeHRM - *****************Change date ****************
+2021-07-12 00:00:30,773 [main] INFO OrangeHRM - *****************Choose Gender ****************
+2021-07-12 00:00:30,845 [main] INFO OrangeHRM - *****************Change material status ****************
+2021-07-12 00:00:30,967 [main] INFO OrangeHRM - *****************Change nationality ****************
+2021-07-12 00:00:31,076 [main] INFO OrangeHRM - *****************Click on save ****************
+2021-07-12 00:00:41,081 [main] INFO OrangeHRM - *****************Click on Logout ****************
+2021-07-12 00:00:45,368 [main] INFO OrangeHRM - *****************Closing Browser ****************
+2021-07-12 00:03:19,231 [main] INFO OrangeHRM - *****************Launching URL****************
+2021-07-12 00:03:19,548 [main] INFO OrangeHRM - *****************Opening URL****************
+2021-07-12 00:03:22,066 [main] INFO OrangeHRM - *****************User Informartion****************
+2021-07-12 00:03:22,322 [main] INFO OrangeHRM - *****************Click on Login****************
+2021-07-12 00:03:24,353 [main] INFO OrangeHRM - *****************Login Failed ****************
+2021-07-12 00:03:27,387 [main] INFO OrangeHRM - *****************Click on Logout ****************
+2021-07-12 00:03:31,297 [main] INFO OrangeHRM - *****************Closing Browser ****************
+2021-07-12 00:03:33,329 [main] INFO OrangeHRM - *****************Launching URL****************
+2021-07-12 00:03:33,336 [main] INFO OrangeHRM - *****************Opening URL****************
+2021-07-12 00:03:39,268 [main] INFO OrangeHRM - *****************User Informartion****************
+2021-07-12 00:03:39,579 [main] INFO OrangeHRM - *****************Click on Login****************
+2021-07-12 00:03:46,837 [main] INFO OrangeHRM - *****************Click on Myinfo ****************
+2021-07-12 00:03:50,295 [main] INFO OrangeHRM - *****************Click on Edit button ****************
+2021-07-12 00:03:50,369 [main] INFO OrangeHRM - *****************Change first name ****************
+2021-07-12 00:03:50,508 [main] INFO OrangeHRM - *****************Change last name ****************
+2021-07-12 00:03:50,636 [main] INFO OrangeHRM - *****************ID change ****************
+2021-07-12 00:03:50,763 [main] INFO OrangeHRM - *****************Change date ****************
+2021-07-12 00:03:50,997 [main] INFO OrangeHRM - *****************Choose Gender ****************
+2021-07-12 00:03:51,081 [main] INFO OrangeHRM - *****************Change material status ****************
+2021-07-12 00:03:51,167 [main] INFO OrangeHRM - *****************Change nationality ****************
+2021-07-12 00:03:51,236 [main] INFO OrangeHRM - *****************Click on save ****************
+2021-07-12 00:04:00,791 [main] INFO OrangeHRM - *****************Click on Logout ****************
+2021-07-12 00:04:04,712 [main] INFO OrangeHRM - *****************Closing Browser ****************
+2021-07-12 00:06:13,752 [main] INFO OrangeHRM - *****************Launching URL****************
+2021-07-12 00:06:14,016 [main] INFO OrangeHRM - *****************Opening URL****************
+2021-07-12 00:06:16,049 [main] INFO OrangeHRM - *****************User Informartion****************
+2021-07-12 00:06:16,356 [main] INFO OrangeHRM - *****************Click on Login****************
+2021-07-12 00:06:18,726 [main] INFO OrangeHRM - *****************Login Failed ****************
+2021-07-12 00:06:21,753 [main] INFO OrangeHRM - *****************Click on Logout ****************
+2021-07-12 00:06:25,692 [main] INFO OrangeHRM - *****************Closing Browser ****************
+2021-07-12 00:06:27,590 [main] INFO OrangeHRM - *****************Launching URL****************
+2021-07-12 00:06:27,597 [main] INFO OrangeHRM - *****************Opening URL****************
+2021-07-12 00:06:29,777 [main] INFO OrangeHRM - *****************User Informartion****************
+2021-07-12 00:06:30,039 [main] INFO OrangeHRM - *****************Click on Login****************
+2021-07-12 00:06:35,225 [main] INFO OrangeHRM - *****************Click on Myinfo ****************
+2021-07-12 00:06:38,763 [main] INFO OrangeHRM - *****************Click on Edit button ****************
+2021-07-12 00:06:38,836 [main] INFO OrangeHRM - *****************Change first name ****************
+2021-07-12 00:06:38,976 [main] INFO OrangeHRM - *****************Change last name ****************
+2021-07-12 00:06:39,107 [main] INFO OrangeHRM - *****************ID change ****************
+2021-07-12 00:06:39,255 [main] INFO OrangeHRM - *****************Change date ****************
+2021-07-12 00:06:39,591 [main] INFO OrangeHRM - *****************Choose Gender ****************
+2021-07-12 00:06:39,670 [main] INFO OrangeHRM - *****************Change material status ****************
+2021-07-12 00:06:39,753 [main] INFO OrangeHRM - *****************Change nationality ****************
+2021-07-12 00:06:39,826 [main] INFO OrangeHRM - *****************Click on save ****************
+2021-07-12 00:06:49,371 [main] INFO OrangeHRM - *****************Click on Logout ****************
+2021-07-12 00:06:53,391 [main] INFO OrangeHRM - *****************Closing Browser ****************
+2021-07-12 00:15:50,215 [main] INFO OrangeHRM - *****************Launching URL****************
+2021-07-12 00:15:50,485 [main] INFO OrangeHRM - *****************Opening URL****************
+2021-07-12 00:15:52,737 [main] INFO OrangeHRM - *****************User Informartion****************
+2021-07-12 00:15:53,021 [main] INFO OrangeHRM - *****************Click on Login****************
+2021-07-12 00:15:55,148 [main] INFO OrangeHRM - *****************Login Failed ****************
+2021-07-12 00:15:58,166 [main] INFO OrangeHRM - *****************Click on Logout ****************
+2021-07-12 00:16:02,104 [main] INFO OrangeHRM - *****************Closing Browser ****************
+2021-07-12 00:16:04,018 [main] INFO OrangeHRM - *****************Launching URL****************
+2021-07-12 00:16:04,025 [main] INFO OrangeHRM - *****************Opening URL****************
+2021-07-12 00:16:06,346 [main] INFO OrangeHRM - *****************User Informartion****************
+2021-07-12 00:16:06,614 [main] INFO OrangeHRM - *****************Click on Login****************
+2021-07-12 00:16:10,760 [main] INFO OrangeHRM - *****************Click on Myinfo ****************
+2021-07-12 00:16:14,281 [main] INFO OrangeHRM - *****************Click on Edit button ****************
+2021-07-12 00:16:14,372 [main] INFO OrangeHRM - *****************Change first name ****************
+2021-07-12 00:16:14,547 [main] INFO OrangeHRM - *****************Change last name ****************
+2021-07-12 00:16:14,693 [main] INFO OrangeHRM - *****************ID change ****************
+2021-07-12 00:16:14,830 [main] INFO OrangeHRM - *****************Change date ****************
+2021-07-12 00:16:15,021 [main] INFO OrangeHRM - *****************Choose Gender ****************
+2021-07-12 00:16:15,097 [main] INFO OrangeHRM - *****************Change material status ****************
+2021-07-12 00:16:15,206 [main] INFO OrangeHRM - *****************Change nationality ****************
+2021-07-12 00:16:15,301 [main] INFO OrangeHRM - *****************Click on save ****************
+2021-07-12 00:16:25,326 [main] INFO OrangeHRM - *****************Click on Logout ****************
+2021-07-12 00:16:29,258 [main] INFO OrangeHRM - *****************Closing Browser ****************
